@@ -1,5 +1,5 @@
 # Algo-Bot
-Algorithmic trading bot using the Robinhood API created by Karl Lawson (karl16) and Daniel Bunch (jdbunch).
+Algorithmic trading bot utilizing the Robinhood API created by Karl Lawson (karl16) and Daniel Bunch (jdbunch).
 
 # Auth.py
 This is the token that you receive after logging in to your Robinhood account. Having it hardcoded means that you do not have to log in each time you run the program.
